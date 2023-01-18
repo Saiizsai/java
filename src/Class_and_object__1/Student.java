@@ -1,4 +1,4 @@
-package Class_and_object__one;
+package Class_and_object__1;
 
 public class Student {
 
