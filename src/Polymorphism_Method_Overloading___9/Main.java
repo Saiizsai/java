@@ -1,4 +1,4 @@
-package Polymorphism_Method_Overloading___9;
+package Polymorphism_Method_Overloading___nine;
 
 //class 1ku mhr name 1ku htk po shi yin overloading
 

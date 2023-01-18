@@ -1,4 +1,4 @@
-package Static_fields__2;
+package Static_fields__two;
 
 public class Student {
 
