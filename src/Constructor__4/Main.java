@@ -1,4 +1,4 @@
-package Constructor__four;
+package Constructor__4;
 
 /* Constructor
 Instance ti south chin yin tone
