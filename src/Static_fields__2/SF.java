@@ -1,4 +1,4 @@
-package Static_fields__two;
+package Static_fields__2;
 
 public class SF {
     public static void main(String[] args) {
