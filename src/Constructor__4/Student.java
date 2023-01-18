@@ -1,4 +1,4 @@
-package Constructor__four;
+package Constructor__4;
 
 public class Student {
     int id ;
