@@ -1,4 +1,4 @@
-package Access_Modifiers__10;
+package Access_Modifiers;
 
 public class Machine {
 
