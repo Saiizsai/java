@@ -1,4 +1,4 @@
-package Interface__six;
+package Interface__6;
 
 public interface Machine {
     public void start();       //abstract method
