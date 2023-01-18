@@ -1,4 +1,4 @@
-package Interface__six;
+package Interface__6;
 
 public class MotorBike implements Machine {
     public void start() {
