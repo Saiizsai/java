@@ -1,4 +1,4 @@
-package Static_Method__3;
+package Static_Method__three;
 
 public class Student {
     static int count ;

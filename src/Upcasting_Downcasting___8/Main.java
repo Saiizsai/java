@@ -1,4 +1,4 @@
-package Upcasting_Downcasting___8;
+package Upcasting_Downcasting___eight;
 
 public class Main {
     public static void main(String[] args) {
