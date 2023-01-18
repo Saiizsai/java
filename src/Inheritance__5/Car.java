@@ -1,4 +1,4 @@
-package Inheritance__five;
+package Inheritance__5;
 
 public class Car extends Machine{
 
