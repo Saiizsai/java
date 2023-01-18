@@ -1,4 +1,4 @@
-package Polymorphism_Merhod_Overriding__9_2;
+package Polymorphism_Merhod_Overriding__ninev2;
 
 public class Main {
     public static void main(String[] args) {
