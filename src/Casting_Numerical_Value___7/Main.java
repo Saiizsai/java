@@ -1,4 +1,4 @@
-package Casting_Numerical_Value___7;
+package Casting_Numerical_Value___seven;
 
 public class Main {
     public static void main(String[] args) {
