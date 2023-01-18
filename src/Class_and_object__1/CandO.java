@@ -1,4 +1,4 @@
-package Class_and_object__1;
+package Class_and_object__one;
 
 public class CandO {
     public static void main(String[] args) {

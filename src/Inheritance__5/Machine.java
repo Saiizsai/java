@@ -1,4 +1,4 @@
-package Inheritance__5;
+package Inheritance__five;
 
 public class Machine {
     int id;
